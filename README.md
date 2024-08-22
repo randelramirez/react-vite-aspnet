@@ -3,6 +3,6 @@
 
 To do<br>
 
-1.) React(vite) SPA hosted on Razor Page
-2.) Code clean up
-3.) Check deployment for issues
+1.) React(vite) SPA hosted on Razor Page <br>
+2.) Code clean up <br> 
+3.) Check deployment for issues <br>
